@@ -1,6 +1,13 @@
+@font-face {
+    font-family: "typewriter";
+    src: url(fonts/LUCKY\ TYPEWRITER.ttf);
+}
+
 body{
    background-image: url(images/background.png); 
    overflow-x: hidden;
+   overflow-y: hidden;
+   background-size: 100%;
 }
 
 img.a{
@@ -8,4 +15,11 @@ img.a{
     width: 100%;
     position: relative;
     left: -10px; 
+}
+.text1{
+    font-family: "typewriter";
+    position: relative;
+    bottom: 200px;
+    font-size: 50px;
+    left: 570px;
 }

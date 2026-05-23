@@ -10,17 +10,9 @@ body{
    background-size: 100%;
 }
 
-img.a{
-    height: 100%;
-    width: 100%;
-    position: relative;
-    left: -10px; 
-    bottom: 200px;
-    opacity: 20%;
-}
 .text1{
     font-family: "typewriter";
-    position: relative;
+    position: absolute;
     bottom: 200px;
     font-size: 20px;
     left: 570px;

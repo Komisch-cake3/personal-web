@@ -173,3 +173,17 @@ img.a{
     left: 1190px;
     z-index: 0;
 }
+/* Apple Stuff */
+
+.apple1{
+    width: 30%;
+    position: absolute;
+    bottom: 150px;
+    left: 530px;
+    z-index: 0;
+    cursor: pointer;
+}
+
+.apple1:hover{
+    transform: scale(1.1);
+}

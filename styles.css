@@ -22,4 +22,16 @@ img.a{
     bottom: 200px;
     font-size: 50px;
     left: 570px;
+    color: #323232;
 }
+
+.apple{
+
+    width: 20%;
+    position: absolute;
+    bottom: 30px;
+    left: 1100px;
+    transform: rotate(30deg);
+}
+
+.

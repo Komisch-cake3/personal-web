@@ -91,5 +91,85 @@ img.a{
     position: absolute;
     bottom: 450px;
     left: 188px;
+    z-index: 2;
+}
+
+.m1{
+    width: 16%;
+    position: absolute;
+    bottom: 480px;
+    left: 320px;
     z-index: 1;
+}
+
+.i1{
+    width: 20%;
+    position: absolute;
+    bottom: 480px;
+    left: 410px;
+    z-index: 1;
+}
+
+.s1{
+    width: 10%;
+    position: absolute;
+    bottom: 510px;
+    left: 560px;
+    z-index: 1;
+}
+
+.w1{
+    width: 26%;
+    position: absolute;
+    bottom: 440px;
+    left: 650px;
+    z-index: 1;
+}
+
+.e1{
+    width: 17%;
+    position: absolute;
+    bottom: 470px;
+    left: 840px;
+    z-index: 2;
+}
+
+.b1{
+    width: 25%;
+    position: absolute;
+    bottom: 455px;
+    left: 840px;
+    z-index: 1;
+}
+
+.s2{
+    width: 15%;
+    position: absolute;
+    bottom: 470px;
+    left: 1010px;
+    z-index: 0;
+}
+
+.i2{
+    width: 15%;
+    position: absolute;
+    bottom: 460px;
+    left: 1070px;
+    z-index: -1;
+}
+
+.t1{
+    width: 15%;
+    position: absolute;
+    bottom: 460px;
+    left: 1120px;
+    z-index: 1;
+}
+
+.e2{
+    width: 13%;
+    position: absolute;
+    bottom: 490px;
+    left: 1190px;
+    z-index: 0;
 }

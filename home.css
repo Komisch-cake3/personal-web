@@ -12,4 +12,26 @@ body{
 .base{
     width: 100%;
     opacity: 20%;
+    position: fixed;
+
+}
+
+.home{
+    position: absolute;
+    bottom: 640px;
+    width: 25%;
+}
+
+.links{
+    position: absolute;
+    bottom: 640px;
+    width: 35%;
+    left: 428px;
+}
+
+.gallery{
+    position: absolute;
+    bottom: 590px;
+    width: 35%;
+    left: 955px;
 }

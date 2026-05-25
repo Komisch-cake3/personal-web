@@ -52,10 +52,10 @@ body{
 }
 
 .me{
-    width: 150%;
+    width: 120%;
     position: relative;
-    right: 140px;
-    bottom:250px;
+    right: 40px;
+    bottom:90px;
     z-index: 1;
 }
 

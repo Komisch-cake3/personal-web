@@ -176,3 +176,29 @@ body{
 .apple1:hover{
     transform: scale(1.1);
 }
+
+.apple2{
+    width: 21%;
+    position: absolute;
+    bottom: 200px;
+    left: 590px;
+    z-index: 0;
+    cursor: pointer;
+}
+
+.apple2:hover{
+    transform: scale(1.1);
+}
+
+.apple3{
+    width: 18%;
+    position: absolute;
+    bottom: 200px;
+    left: 590px;
+    z-index: 0;
+    cursor: pointer;
+}
+
+.apple3:hover{
+    transform: scale(1.1);
+}

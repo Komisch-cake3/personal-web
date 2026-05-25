@@ -90,3 +90,100 @@ body{
 }
 
 /* Hobbies */
+
+.hobbies{
+    font-family: "typewriter";
+    position: absolute;
+    font-size: 20px;
+    left: 570px;
+    top: 250px;
+}
+
+.computer{
+    position: absolute;
+    left: 530px;
+    top: 250px;
+    width: 25%;
+}
+
+.books{
+    position: absolute;
+    left: 600px;
+    top: 500px;
+    width: 15%;
+}
+
+.drawing{
+    position: absolute;
+    left: 800px;
+    top: 280px;
+    width: 15%;
+}
+
+.piano{
+    position: absolute;
+    left: 800px;
+    top: 500px;
+    width: 15%;
+}
+
+.crochet{
+    position: absolute;
+    left: 1050px;
+    top: 500px;
+    width: 11%;
+}
+
+.volleyball{
+    position: absolute;
+    left: 1000px;
+    top: 270px;
+    width: 15%;
+}
+
+.sleep
+{
+    position: absolute;
+    left: 1200px;
+    top: 270px;
+    width: 20%;
+}
+
+.money{
+    position: absolute;
+    left: 1200px;
+    top: 500px;
+    width: 20%;
+}
+
+.computer:hover{
+    transform: scale(1.1);
+}
+
+.books:hover{
+    transform: scale(1.1);
+}
+
+.drawing:hover{
+    transform: scale(1.1);
+}
+
+.piano:hover{
+    transform: scale(1.1);
+}
+
+.crochet:hover{
+    transform: scale(1.1);
+}
+
+.volleyball:hover{
+    transform: scale(1.1);
+}
+
+.sleep:hover{
+    transform: scale(1.1);
+}
+
+.money:hover{
+    transform: scale(1.1);
+}

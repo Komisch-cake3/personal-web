@@ -164,7 +164,7 @@ body{
 }
 /* Apple Stuff */
 
-.apple1{
+#apple1{
     width: 30%;
     position: absolute;
     bottom: 150px;
@@ -173,11 +173,11 @@ body{
     cursor: pointer;
 }
 
-.apple1:hover{
+#apple1:hover{
     transform: scale(1.1);
 }
 
-.apple2{
+#apple2{
     width: 21%;
     position: absolute;
     bottom: 200px;
@@ -186,11 +186,11 @@ body{
     cursor: pointer;
 }
 
-.apple2:hover{
+#apple2:hover{
     transform: scale(1.1);
 }
 
-.apple3{
+#apple3{
     width: 18%;
     position: absolute;
     bottom: 200px;
@@ -199,6 +199,6 @@ body{
     cursor: pointer;
 }
 
-.apple3:hover{
+#apple3:hover{
     transform: scale(1.1);
 }

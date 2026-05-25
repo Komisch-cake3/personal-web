@@ -35,3 +35,58 @@ body{
     width: 35%;
     left: 955px;
 }
+
+/* Me holder */
+
+.meHolder{
+    height: 450px;
+    width: 450px;
+    background-color: green;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    border-radius: 5px;
+    z-index:1;
+}
+
+.me{
+    width: 150%;
+    position: relative;
+    right: 140px;
+    bottom:250px;
+    z-index: 1;
+}
+
+.painter{
+    z-index: 2;
+    position: absolute;
+    bottom: -90px;
+}
+
+.planty{
+    z-index: 3;
+    position: absolute;
+    top: 570px;
+    left: 120px;
+    width: 30%;
+}
+
+.bubble{
+    width: 15%;
+    position: absolute;
+    z-index: 2;
+    top: 570px;
+    left: 120px;
+}
+
+.name{
+    font-family: "typewriter";
+    position: absolute;
+    top: 710px;
+    left: 490px;
+    font-size: 20px;
+}
+
+/* Hobbies */

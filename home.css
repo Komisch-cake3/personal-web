@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "typewriter";
+    src: url(fonts/LUCKY\ TYPEWRITER.ttf);
+}
+
+body{
+   background-image: url(images2/bg.png); 
+   overflow-x: hidden;
+   background-size: 100%;
+}
+
+.base{
+    width: 100%;
+    opacity: 20%;
+}

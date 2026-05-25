@@ -2,6 +2,6 @@
 
  img.addEventListener("click", function(){
 
-    img.src = "images/apple3.png";
+    img.src = "images/appl2.png";
 
  })

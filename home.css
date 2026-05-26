@@ -187,3 +187,132 @@ body{
 .money:hover{
     transform: scale(1.1);
 }
+
+/* Lkes */
+
+.likes{
+    font-family:"typewriter";
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+    font-size: 25px;
+}
+
+.till{
+    position: absolute;
+    width: 18%;
+    top: 1100px;
+    left: 100px;
+}
+
+.bakugo{
+    position: absolute;
+    width: 20%;
+    top: 1230px;
+    left: 150px;
+    z-index: 2;
+}
+
+.cherry{
+    position: absolute;
+    width: 22%;
+    top: 1130px;
+    left: 230px;
+    z-index: 1;
+}
+
+.characters{
+    font-family:"typewriter";
+    position:absolute;
+    top: 1500px;
+    left: 350px;
+    font-size: 150%;
+}
+
+.mcdonalds{
+    position: absolute;
+    width: 25%;
+    top: 1100px;
+    left: 520px;
+    z-index: 1;
+}
+
+.nuggets{
+    position: absolute;
+    width: 22%;
+    top: 1190px;
+    left: 590px;
+    z-index: 2;
+}
+
+.fries{
+    position: absolute;
+    width: 18%;
+    top: 1140px;
+    left: 700px;
+    z-index: 2;
+}
+
+.food{
+    font-family:"typewriter";
+    position:absolute;
+    top: 1150px;
+    left: 750px;
+    font-size: 150%;
+}
+
+.smiski1{
+    position: absolute;
+    width: 29%;
+    top: 1000px;
+    left: 900px;
+    z-index: 1;
+}
+
+.namaste{
+    position: absolute;
+    width: 20%;
+    top: 1180px;
+    left: 1060px;
+    z-index: 2;
+}
+
+.stretch{
+    position: absolute;
+    width: 29%;
+    top: 1050px;
+    left: 1080px;
+    z-index: 1;
+}
+
+.toys{
+    font-family:"typewriter";
+    position:absolute;
+    top: 1300px;
+    left: 1340px;
+    font-size: 150%;
+}
+
+.abbott{
+    position: absolute;
+    width: 29%;
+    top: 1600px;
+    left: 100px;
+    z-index: 1;
+}
+
+.house{
+    position: absolute;
+    width: 20%;
+    top: 1750px;
+    left: 140px;
+    z-index: 1;
+}
+
+.cars{
+    position: absolute;
+    width: 31%;
+    top: 1560px;
+    left: 320px;
+    z-index: 1;
+}

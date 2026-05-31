@@ -1,0 +1,107 @@
+@font-face {
+    font-family: "typewriter";
+    src: url(fonts/LUCKY\ TYPEWRITER.ttf);
+}
+
+body{
+   background-image: url(images3/bg.png); 
+   overflow-x: hidden;
+   overflow-y: hidden;
+   background-size: 100%;
+}
+
+.home{
+    position: absolute;
+    bottom: 640px;
+    width: 25%;
+}
+
+.links{
+    position: absolute;
+    bottom: 640px;
+    width: 35%;
+    left: 428px;
+}
+
+.gallery{
+    position: absolute;
+    bottom: 590px;
+    width: 35%;
+    left: 955px;
+}
+
+.insta{
+    width: 6%;
+    position: absolute;
+    left:100px;
+    top: 200px;
+}
+
+.spotify{
+    width: 6%;
+    position: absolute;
+    left:100px;
+    top: 300px;
+}
+
+.pinterest{
+    width: 6%;
+    position: absolute;
+    left:100px;
+    top: 400px;
+}
+
+.youtube{
+    width: 6%;
+    position: absolute;
+    left:100px;
+    top: 500px;
+}
+
+.github{
+    width: 6%;
+    position: absolute;
+    left:100px;
+    top: 600px;
+}
+
+.link1{
+    font-family: "typewriter";
+    position: absolute;
+    left: 200px;
+    top: 535px;
+    color: black;
+}
+
+.link2{
+    font-family: "typewriter";
+    position: absolute;
+    left: 200px;
+    top: 235px;
+    color: black;
+}
+
+.link3{
+    font-family: "typewriter";
+    position: absolute;
+    left: 200px;
+    top: 335px;
+    color: black;
+}
+
+.link4{
+    font-family: "typewriter";
+    position: absolute;
+    left: 200px;
+    top: 435px;
+    color: black;
+}
+
+
+.link5{
+    font-family: "typewriter";
+    position: absolute;
+    left: 200px;
+    top: 635px;
+    color: black;
+}

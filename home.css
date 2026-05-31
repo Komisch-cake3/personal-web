@@ -311,17 +311,17 @@ body{
 
 .cars{
     position: absolute;
-    width: 27%;
-    top: 1560px;
-    left: 280px;
+    width: 23%;
+    top: 1620px;
+    left: 300px;
     z-index: 1;
 }
 
 .link{
     position: absolute;
     width: 23%;
-    top: 1740px;
-    left: 320px;
+    top: 1770px;
+    left: 300px;
     z-index: 1;
 }
 
@@ -337,7 +337,7 @@ body{
  position: absolute;
     width: 17%;
     top: 1560px;
-    left: 650px;
+    left: 590px;
     z-index: 1;
 }
 
@@ -345,7 +345,7 @@ body{
  position: absolute;
     width: 25%;
     top: 1700px;
-    left: 570px;
+    left: 540px;
     z-index: 2;
 }
 
@@ -353,23 +353,23 @@ body{
  position: absolute;
     width: 17%;
     top: 1500px;
-    left: 780px;
+    left: 720px;
     z-index: 2;
 }
 
 .tged{
  position: absolute;
-    width: 20%;
-    top: 1660px;
-    left: 800px;
+    width: 18%;
+    top: 1650px;
+    left: 730px;
     z-index: 3;
 }
 
 .lotcf{
  position: absolute;
     width: 17%;
-    top: 1550px;
-    left: 910px;
+    top: 1580px;
+    left: 860px;
     z-index: 2;
 }
 
@@ -377,6 +377,54 @@ body{
     font-family:"typewriter";
     position:absolute;
     top: 1550px;
-    left: 700px;
+    left: 650px;
+    font-size: 130%;
+}
+
+.itch{
+ position: absolute;
+    width: 25%;
+    top: 1470px;
+    left: 980px;
+    z-index: 2;
+}
+
+.roblox{
+ position: absolute;
+    width: 18%;
+    top: 1650px;
+    left: 1210px;
+    z-index: 2;
+}
+
+.detroit{
+ position: absolute;
+    width: 25%;
+    top: 1654px;
+    left: 1050px;
+    z-index: 2;
+}
+
+.sky{
+ position: absolute;
+    width: 13%;
+    top: 1690px;
+    left: 1300px;
+    z-index: 2;
+}
+
+.minecraft{
+ position: absolute;
+    width: 30%;
+    top: 1700px;
+    left: 1030px;
+    z-index: 1;
+}
+
+.games{
+    font-family:"typewriter";
+    position:absolute;
+    top: 1620px;
+    left: 1300px;
     font-size: 130%;
 }

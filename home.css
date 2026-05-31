@@ -297,7 +297,7 @@ body{
     position: absolute;
     width: 29%;
     top: 1600px;
-    left: 100px;
+    left: 40px;
     z-index: 1;
 }
 
@@ -305,14 +305,78 @@ body{
     position: absolute;
     width: 20%;
     top: 1750px;
-    left: 140px;
+    left: 100px;
     z-index: 1;
 }
 
 .cars{
     position: absolute;
-    width: 31%;
+    width: 27%;
     top: 1560px;
+    left: 280px;
+    z-index: 1;
+}
+
+.link{
+    position: absolute;
+    width: 23%;
+    top: 1740px;
     left: 320px;
     z-index: 1;
+}
+
+.movies{
+    font-family:"typewriter";
+    position:absolute;
+    top: 1630px;
+    left: 80px;
+    font-size: 150%;
+}
+
+.orv{
+ position: absolute;
+    width: 17%;
+    top: 1560px;
+    left: 650px;
+    z-index: 1;
+}
+
+.s-class{
+ position: absolute;
+    width: 25%;
+    top: 1700px;
+    left: 570px;
+    z-index: 2;
+}
+
+.worldafter{
+ position: absolute;
+    width: 17%;
+    top: 1500px;
+    left: 780px;
+    z-index: 2;
+}
+
+.tged{
+ position: absolute;
+    width: 20%;
+    top: 1660px;
+    left: 800px;
+    z-index: 3;
+}
+
+.lotcf{
+ position: absolute;
+    width: 17%;
+    top: 1550px;
+    left: 910px;
+    z-index: 2;
+}
+
+.webtoons{
+    font-family:"typewriter";
+    position:absolute;
+    top: 1550px;
+    left: 700px;
+    font-size: 130%;
 }

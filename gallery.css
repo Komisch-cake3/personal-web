@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "typewriter";
+    src: url(fonts/LUCKY\ TYPEWRITER.ttf);
+}
+
+body{
+   background-image: url(images3/bg.png); 
+   overflow-x: hidden;
+   overflow-y: hidden;
+   background-size: 100%;
+}
+
+.home{
+    position: absolute;
+    bottom: 640px;
+    width: 25%;
+}
+
+.links{
+    position: absolute;
+    bottom: 640px;
+    width: 35%;
+    left: 428px;
+}
+
+.gallery{
+    position: absolute;
+    bottom: 590px;
+    width: 35%;
+    left: 955px;
+}
+
+.link1{
+    width: 150%;
+    position:absolute;
+    top: 0px;
+}
+
+.holder{
+    width: 500px;
+    height: 260px;
+    background-color: aliceblue;
+    position: relative;
+    top: 300px;
+    left: 100px;
+}

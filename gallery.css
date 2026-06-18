@@ -64,8 +64,28 @@ p.a{
 .steps1{
     position: absolute;
     width: 10%;
-    transform: scaleX(-1);
+    transform: scaleY(-1);
     transform: rotate(180deg);
     z-index: 2;
     left: 500px;    
+}
+
+.demo1{
+    font-family: "typewriter";
+    width: 50%;
+    text-align: center;
+    position: absolute;
+    top: 880px;
+    left:300px;
+    color: black;
+}
+
+.github1{
+      font-family: "typewriter";
+    width: 50%;
+    text-align: center;
+    position: absolute;
+    top: 880px;
+    left:-100px;
+    color: black;
 }
